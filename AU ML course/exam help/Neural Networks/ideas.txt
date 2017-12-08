@@ -1,0 +1,23 @@
+Start by coding simple feed forward neural network in numpy. 
+
+then explain convolutional neural network, explain it is difficult to code,
+and we will use tensorflow for this. 
+
+
+- Neural Networks; forward pass, backpropagation, gradient descent
+- Convolutional Neural Networks (using pixel locality,...)
+
+add draw weights to autoencoder, and write it as a class;; actually, maybe write Neural Network as a class in numpy, then write it as a class in tensorflow, also do this for convolutional neural network. 
+
+CNN()
+
+CNN.conv_layer(inp_d, next_l)
+CNN.maxpool(..)
+CNN.cnv(..)
+CNN.maxpool(..)
+CNN.feedforward(...)
+
+CNN.visualize_arhitecture() # maybe visualize how backprop is going back troguh model?
+
+CNN.train()
+CNN.visualize_kernels() // Visualize both kernels, but also architecture. 
