@@ -1,1 +1,1 @@
-This repository will contain code from many of my different projects. I will use <a href="https://ipython.org/notebook.html" target="_new">IPython Notebook</a> to mix code with some nice mathy explanations. The projects will range from re-implementing articles, teaching to research. 
+This repository will contain code from many of my different projects. I will use IPython Notebook to mix code with some nice mathy explanations. The projects will range from re-implementing articles, teaching to research. 
