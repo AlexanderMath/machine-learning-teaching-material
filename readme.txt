@@ -1,8 +1,1 @@
-This repository will contain code from many of my different projects. The projects range from hobbies, teaching to research. I will attempt to make IPython Notebooks that explain minimal working .. 
-
-
-TODO:
-
-See if I can make readme file a IPython Notebook, and maybe add an example of how minimal working example for each project is.
-
-
+This repository will contain code from many of my different projects. I will use <a href="https://ipython.org/notebook.html" target="_new">IPython Notebook</a> to mix code with some nice mathy explanations. The projects will range from re-implementing articles, teaching to research. 
